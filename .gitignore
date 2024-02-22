@@ -1,0 +1,4 @@
+./data/train/*
+./data/validation/*
+./data/english.csv
+./consignes_projet.docx
